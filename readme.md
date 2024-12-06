@@ -29,3 +29,22 @@ Bubble-Game/
 ├── style.css        # Styling for the game
 ├── script.js        # Game logic in JavaScript
 └── assets/          # Font or other assets (e.g., images)
+
+---
+
+
+
+
+
+## Tech Stack
+HTML: Structure of the game.
+CSS: Styling and layout.
+JavaScript: Game logic and interactivity.
+
+
+
+
+Acknowledgments
+Created With ❤️ By SARYM
+This project is not under any license and is free for personal use or modification.
+If you like it, give it a ⭐!
