@@ -34,7 +34,7 @@ function runTimer(){
 }
 
 document.querySelector("#p-Play")
-.addEventListener("click",function(dets){  // dets means details
+.addEventListener("click",(dets) => {  // dets means details
     var clickedNumber = (Number(dets.target.textContent));  // dets.target sy pura div agaya or .textContent sy us div ka number yani data agaya
     if (clickedNumber === hitRn){
         scoreVal();
